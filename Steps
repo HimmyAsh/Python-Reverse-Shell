@@ -1,0 +1,18 @@
+This is for educational purposes only. It is illegal to use these attacks in any criminal manner. 
+Test in a secure owned virtual lab. Enjoy
+
+You will first want to run the "Himmy.py" also known as the web server first
+Once that file is running as intented, you will want to run the "Himmyrat.py" on the victims system 
+
+You can use any cmd prompt actions, for example running netstat. It will execute on the system as intended. 
+
+How to turn the rat file into an exe. (By no means will this go undetected on a system, making it an exe file lowers the chances)
+You will need to install PyInstaller onto your system (pip install PyInstaller)
+(Ensure you are in the right directory of the files)
+Then you will execute (PyInstaller (filename) --noconsole --onefile)
+Rename the file to something a "enduser" would likely click. For example "PTO requests"
+Run the executable and it will start listening back to the web server.
+
+
+This is for educational purposes only. It is illegal to use these attacks in any criminal manner. 
+Test in a secure owned virtual lab. Enjoy
