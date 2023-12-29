@@ -1,3 +1,5 @@
+#This gets ran on the attackers system
+
 import sys
 import socket
 
